@@ -11,6 +11,8 @@ Building **open-source, self-hosted AI automation tools and publishing platforms
 | **[Envoraicms](https://github.com/enveryurtsever/envoraicms)** | Self-hosted AI CMS & automated news publishing platform. WordPress alternative with Gemini/OpenAI/Claude pipelines, fal.ai cover images, NewsArticle JSON-LD, Google Indexing API, and one-click updates with auto-rollback. Live: [techawave.com](https://techawave.com) · [vitenhelse.com](https://vitenhelse.com) | `Next.js 15` `TypeScript` `PostgreSQL` `Tailwind` | ![GPL-3.0](https://img.shields.io/github/license/enveryurtsever/envoraicms?color=22c55e) |
 | **[Vidoza](https://github.com/enveryurtsever/vidoza)** | Self-hosted AI faceless short video generator & auto-poster for YouTube Shorts, TikTok, and Instagram Reels — with Gemini AI scripting, Edge TTS, stock video sourcing, Remotion + FFmpeg rendering, and Telegram Bot control. | `Node.js` `Remotion` `FFmpeg` `SQLite` `Gemini AI` | ![MIT](https://img.shields.io/github/license/enveryurtsever/vidoza?color=22c55e) |
 | **[XUPFLY](https://github.com/enveryurtsever/xupfly)** | Self-hosted autonomous X (Twitter) AI growth & automation engine with multi-provider AI writing (Gemini/OpenAI/Claude), fal.ai visuals, X API v2 OAuth 2.0, smart scheduling, and credit-based multi-tenant management. | `Next.js 16` `Drizzle ORM` `PostgreSQL` `X API v2` | ![MIT](https://img.shields.io/github/license/enveryurtsever/xupfly?color=22c55e&cacheSeconds=3600) |
+| **[EnvoraSports](https://github.com/enveryurtsever/envorasports)** | Open-source football prediction & sports market-intelligence platform with leakage-free Elo/statistical ensembles, live odds pricing, backtesting, and a bilingual EN/TR UI. | `Next.js 15` `Prisma` `PostgreSQL` `next-intl` | ![MIT](https://img.shields.io/github/license/enveryurtsever/envorasports?color=22c55e) |
+| **[Envotrade](https://github.com/enveryurtsever/envotrade)** | Self-hosted autonomous AI trading terminal for Crypto & US Equities powered by Anthropic Claude, Alpaca Markets API, news/X sentiment, backtesting, and a native CustomTkinter desktop UI. | `Python` `Claude AI` `Alpaca API` `PostgreSQL` | ![MIT](https://img.shields.io/github/license/enveryurtsever/envotrade?color=22c55e) |
 
 ---
 
@@ -18,6 +20,7 @@ Building **open-source, self-hosted AI automation tools and publishing platforms
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
